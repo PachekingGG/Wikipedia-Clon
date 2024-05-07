@@ -1,0 +1,92 @@
+.main-logos {
+    order: 1;
+    position: relative;
+}
+.main-nav {
+    order: 2;
+    margin: 2.5rem 0 3.8rem;
+}
+.search-bar {
+    order: 3;
+}
+.lang-list-container {
+    order: 4;
+}
+.lang-list {
+    margin: 3rem 1.4rem 3rem 1.4rem;
+}
+.content {
+    margin-top: 5.2rem;
+}
+.eslogan {
+    width: 17rem;
+}
+.world-logo {
+    position: absolute;
+    width: 20rem;
+    top: 20.6rem;
+}
+.world-logo img{
+    width: 100%;
+    height: auto;
+    z-index: 10;
+}
+.central-featured {
+    position: relative;
+    width: 100%;
+    max-width: 55rem;
+    height: 29.6rem;
+}
+.item {
+    width: 13.2rem;
+    position: absolute;
+}
+.lang-1 {
+    top: 0.6rem;
+    left: 5.8rem;
+}
+.lang-2 {
+    top: 0.6rem;
+    right: 5.8rem;;
+}
+.lang-3 {
+    top: 6.6rem;
+    left: 2rem;
+}
+.lang-4 {
+    top: 6.6rem;
+    right: 2rem;
+}
+.lang-5 {
+    top: 12.6rem;
+    left: 1rem;
+}
+.lang-6 {
+    top: 12.6rem;
+    right: 1rem;
+}
+.lang-7 {
+    top: 18.6rem;
+    left: 2rem;
+}
+.lang-8 {
+    top: 18.6rem;
+    right: 2rem;
+}
+.lang-9 {
+    top: 24.6rem;
+    left: 6.8rem;
+}
+.lang-10 {
+    top: 24.6rem;
+    right: 6.8rem;
+}
+.other-projects {
+    padding: 2.6rem 1.8rem 0;
+}
+.other-projects ul{
+    grid-template-columns: repeat(3, 1fr);
+}
+.other-projects-item a {
+    padding: 1.3rem 0.7rem;
+}

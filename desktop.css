@@ -1,0 +1,31 @@
+.footer-desktop {
+    place-items: center;
+    padding: 2rem 1rem;
+    grid-template-areas: 'donation projects'
+                         'downloads projects';
+}
+.footer-donation {
+    max-width: 35rem;
+    align-items: center;
+}
+.footer-donation a {
+    text-align: center;
+}
+.other-projects{
+    min-width: 39rem;
+    padding: 2.6rem 0.8rem 0;
+}
+.download-app {
+    max-width: 35rem;
+    margin-bottom: 0;
+}
+.download-app-title {
+    padding: 0 1rem
+}
+.download-app-title img {
+    width: 4.6rem;
+}
+.download-app p {
+    text-align: start;
+    padding: 1rem 2rem 1.6rem 2rem;
+}
